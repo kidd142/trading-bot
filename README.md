@@ -120,4 +120,4 @@ Jika Anda memiliki ide atau ingin berkontribusi, silakan fork repositori ini dan
 
 ## License
 
-Proyek ini dilisensikan di bawah [MIT License](LICENSE). <!-- Buat file LICENSE.md jika ini menjadi proyek open source -->
+Proyek ini dilisensikan di bawah [MIT License](LICENSE). 
