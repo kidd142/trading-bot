@@ -51,7 +51,6 @@ Dirancang untuk berjalan di lingkungan yang ringan tanpa ketergantungan eksterna
 .
 ├── trading_sim.py          # Logika inti bot: MarketData, Indicators, AdvancedFuzzy, TradingEngine
 ├── simulation_report.html  # Output dashboard visual setelah simulasi
-├── GEMINI.md               # Dokumentasi internal project untuk AI agent
 └── README.md               # Dokumentasi proyek untuk GitHub
 ```
 
